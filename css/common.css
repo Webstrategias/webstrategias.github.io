@@ -1,0 +1,45 @@
+
+#index-banner{
+    background-color: rgba(0,0,0,0.4);
+}
+#main-nav *{
+     color: white !important; 
+}
+
+.page-footer *{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+.page-footer h5{
+    text-transform: uppercase; 
+    margin-top: 3rem;
+    font-weight: 400;
+}
+.page-footer p{
+    font-size: 120%;
+}
+
+.page-footer .center-align{
+    padding: 0 3% 0 3%;
+}
+#nosotros{
+    text-align: center;
+}
+.agradecimiento{
+    color: #f44336;
+    font-weight: 400;
+}
+.social-icons img{
+    height: 2rem;
+}
+
+.personal-info h3{
+    font-size: 1.8rem;
+    margin:0;
+    margin-bottom: 0.2rem;
+}
+.personal-info h4{
+    font-size: 1rem;
+    margin:0.2rem;
+}
