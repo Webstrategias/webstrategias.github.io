@@ -12,3 +12,10 @@
 .unslider-nav, .unslider-arrow{
     display: none;
 }
+
+.text-medium{
+    font-size: 130%;
+}
+.link-box *{
+    color: black;
+}

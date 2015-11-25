@@ -1,11 +1,13 @@
-
+/*Navbar*/
 #index-banner{
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0,0,0,0.5);
+    padding-top: 5rem;
 }
 #main-nav *{
-     color: white !important; 
+     color: white !important;
 }
 
+/*Footer*/
 .page-footer *{
     color: black;
     font-family: 'Open Sans', sans-serif;
