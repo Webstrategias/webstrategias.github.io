@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(0,0,0,0.8);
+}
+.consejo{
+    border-radius: 20px;
+    padding: 0.2rem 0.4rem 1rem 1rem;
+}
+.consejo h3{
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+.icono{
+    font-size: 1.5rem;
+    
+}
+.parallax-container{
+    line-height: 100%;
+    color: #fff;
+}
